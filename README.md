@@ -1,6 +1,7 @@
 # 🎳 BOWLING 2600 DELUXE — Remaster & Engenharia Reversa
 
 > **Remaster por [@realzurr](https://github.com/realzurr)**  
+> 🌐 **Jogue Online Agora (GitHub Pages):** **[https://realzurr.github.io/bowling/](https://realzurr.github.io/bowling/)**  
 > Recriação moderna para navegador (HTML5 Canvas + Web Audio API) a partir da engenharia reversa do binário original **`Bowling.bin` (Atari 2600, 1979 — Larry Kaplan)**.
 
 ---
